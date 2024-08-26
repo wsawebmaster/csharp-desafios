@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "DesafioFundamentos\DesafioFundamentos.csproj", "{2113CC3A-D133-4AFA-B92A-5E000C39736A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioProjetoHospedagem", "trilha-net-explorando-desafio\DesafioProjetoHospedagem.csproj", "{6B09F369-583C-4584-8AEF-C12FECB444A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2113CC3A-D133-4AFA-B92A-5E000C39736A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2113CC3A-D133-4AFA-B92A-5E000C39736A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2113CC3A-D133-4AFA-B92A-5E000C39736A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2113CC3A-D133-4AFA-B92A-5E000C39736A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B09F369-583C-4584-8AEF-C12FECB444A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B09F369-583C-4584-8AEF-C12FECB444A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B09F369-583C-4584-8AEF-C12FECB444A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B09F369-583C-4584-8AEF-C12FECB444A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8AEA13-1637-466D-959E-4771A8E31E3A}
+	EndGlobalSection
+EndGlobal
